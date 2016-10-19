@@ -1,0 +1,7 @@
+name	NP1	NP2	VP1	NP3	NPI
+created	1083	2657	3225	4810	5360
+cat	NP	NP	VP	NP	ADV
+neg	-	+	-	-	-
+num	pl	pl	nil	sg	nil
+com	+	-	-	-	+
+embed	1	2	2	2	1

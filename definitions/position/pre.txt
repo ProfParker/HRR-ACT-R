@@ -1,0 +1,6 @@
+moment	3425	3425	5560
+cat	NP	NP	NP
+neg	NULL	NULL	+
+num	NULL	NULL	NULL
+com	+	-	+
+embed	1	2	NULL

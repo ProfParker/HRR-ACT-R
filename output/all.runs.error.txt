@@ -1,0 +1,3 @@
+"","cat.penalty","F","G","ans","mas","d","match.penalty","VAR.fan","var.mismatch.penalty","modulate.by.distinct","distinctiveness","experiment","condition","retrievals","items","critical.retrieval","correct.item","distractor.item","model"
+"1",-999,0.46,1,0.3,1.5,0.5,-1,0,0,0,0,"post-verbal ever","Intrusive Licensor","definitions/position/post.txt","definitions/position/post.b.txt",4,1,2,30.3
+"2",-999,0.46,1,0.3,1.5,0.5,-1,0,0,0,0,"post-verbal ever","No Licensor","definitions/position/post.txt","definitions/position/post.c.txt",4,1,2,7.5
