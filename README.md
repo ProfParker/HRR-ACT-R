@@ -1,0 +1,2 @@
+# HRR-ACT-R
+A computational model that integrates a dynamically structured holographic memory system into the ACT-R framework. ACT-R based originally developed by R. Lewis &amp; W. Badecker, with extensions to include a holographic declarative memory. This model is featured in Parker, D., &amp; Lantz, D. (2017). Encoding and Accessing Linguistic Representations in a Dynamically Structured Holographic Memory System.  Trends in Cognitive Science (topiCS).
